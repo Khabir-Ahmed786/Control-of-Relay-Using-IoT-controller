@@ -59,12 +59,12 @@ void loop()
 ```
 
 ## CIRCUIT DIAGRAM:
-![alt text](<Screenshot 2024-05-06 180739.png>)
+![image](https://github.com/Khabir-Ahmed786/Control-of-Relay-Using-IoT-controller/assets/143950752/70ae2239-314c-4af8-aa9c-c34f7ee07d66)
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-06 181305.png>)
+![image](https://github.com/Khabir-Ahmed786/Control-of-Relay-Using-IoT-controller/assets/143950752/429db801-a71b-4ae0-ba16-93deeb660b67)
 
 
-![alt text](<Screenshot 2024-05-06 181326.png>)
+![image](https://github.com/Khabir-Ahmed786/Control-of-Relay-Using-IoT-controller/assets/143950752/31cec7c8-8ec6-4a8b-9cbe-18f757d2b125)
 ## RESULT:
 
 Thus the relay is controlled using Arduino controller.
